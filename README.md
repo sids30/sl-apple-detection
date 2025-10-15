@@ -1,6 +1,6 @@
 # Apple Detection Streamlit App 🍎
 
-Deployed Streamlit App Link: https://apple-detection.streamlit.app/
+Deployed Streamlit App Link: https://apple-detect.streamlit.app/
 
 This interactive web application detects **red and green apples** in uploaded images using **OpenCV and color segmentation**.  
 It draws **bounding boxes** around the apples and displays the **total number of apples detected**.
